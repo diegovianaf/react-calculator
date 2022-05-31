@@ -30,6 +30,7 @@ button {
 }
 
 .output {
+  align-items: flex-end;
   background-color: rgba(0, 0, 0, 0.75);
   display: flex;
   grid-column: 1 / -1;
